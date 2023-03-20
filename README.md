@@ -10,7 +10,7 @@ package main
 import (
 	"log"
 
-	"github.com/liornabat/go-putty"
+	"github.com/liornabat/putty"
 )
 
 func main() {
