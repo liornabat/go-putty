@@ -22,7 +22,7 @@
 // the whole CBC structure three times, there have to be three separate IVs,
 // one in each of the two layers (outer and inner).
 
-package cbc3 // import "github.com/pschou/go-cbc3"
+package cbc3
 
 import (
 	"crypto/cipher"
