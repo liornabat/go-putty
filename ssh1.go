@@ -11,7 +11,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/pschou/go-cbc3"
+	"github.com/liornabat/go-putty/go-cbc3"
 )
 
 var (
